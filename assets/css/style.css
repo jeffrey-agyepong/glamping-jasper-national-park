@@ -1,0 +1,25 @@
+body {
+    background: rgb(56, 56, 105);
+    color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #fff;
+}
+
+
+#sidebar {
+    width: 24em;
+    background: #131937;
+    /* color: white; */
+}
+
+#menu ul a,
+#menu ul span {
+    color: white;
+}
