@@ -5,3 +5,9 @@ Prompt: Glamping at Jasper National Park
  the great outdoors without giving up comfort and luxury. 
  Jasper National Park located in Alberta, Canada, 
  offers magnificent scenery for glamping experiences"
+
+"Numerous glamping sites in Jasper National Park offer sizeable tents with cozy beds, heating and cooling systems, private bathrooms."
+
+"Some glamping sites in Jasper National Park have comfy cabins equipped with modern resources including fully stocked kitchens, bathrooms, and private swimming pools."
+
+"Yurts are a special glamping choice that provides a simple comfortable experience, usually with wood-burning stoves and cozy furnishing."
