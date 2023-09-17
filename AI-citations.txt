@@ -11,3 +11,7 @@ Prompt: Glamping at Jasper National Park
 "Some glamping sites in Jasper National Park have comfy cabins equipped with modern resources including fully stocked kitchens, bathrooms, and private swimming pools."
 
 "Yurts are a special glamping choice that provides a simple comfortable experience, usually with wood-burning stoves and cozy furnishing."
+
+Prompt: how is this for my website's meta description? "Experience the beauitiful outdoors at the numerous glamping sites at Jasper National Park."
+
+"Immerse yourself in the natural beauty of Jasper National Park through unforgettable glamping experiences at our numerous sites located in Jasper, Alberta."
