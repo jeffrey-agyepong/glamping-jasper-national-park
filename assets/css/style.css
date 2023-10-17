@@ -12,6 +12,9 @@ h6 {
     color: #fff;
 }
 
+.center {
+    margin: 0 auto;
+}
 
 #sidebar {
     width: 24em;
@@ -33,4 +36,8 @@ h6 {
 .flex {
     display: flex;
     flex-direction: column;
+}
+
+.mb-4 {
+    margin-bottom: 4rem;
 }
