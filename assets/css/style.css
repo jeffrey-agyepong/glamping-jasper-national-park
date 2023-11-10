@@ -154,6 +154,7 @@ body {
 /* -- Code for the Cookie Compliance popover window -- */
 #cookiePopup {
     background-color: #ffffff;
+    color: #000000;
     position: absolute;
     left: 5%;
     bottom: 0;
@@ -175,9 +176,9 @@ body {
 }
 
 #cookiePopup button {
-    background-color: #3f704d;
+    background-color: #32894a;
     border: none;
-    color: #ffffff;
+    color: #020202;
     font-size: 1.2em;
     padding: 1em 1.4em;
     display: block;
