@@ -1,0 +1,56 @@
+ 
+                        
+
+
+                                
+    /* TEAM */
+
+                                
+    Your title: Jeffrey A
+
+                                
+    Site: jagyepong00@gmail.com
+
+                                
+                                
+    Location: Edmonton, Alberta, Canada
+
+                             
+
+                 
+                        [...]
+						
+
+
+    							
+    /* THANKS */
+
+    							
+    Name: https://glamping-jasper-national-park.netlify.app/
+
+    						
+
+                 
+                        [...]
+                        
+
+
+                                
+    /* SITE */
+
+                                
+    Last update: 2023/12/08 
+
+                                
+    Standards: HTML5, CSS3, JavaScript
+
+                                
+    Components: Bootstrap, jQuery
+
+                                
+    Software: Visual Studio Code
+       
+                            
+
+
+                    
